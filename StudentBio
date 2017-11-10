@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>My bio</title>
+</head>
+
+<body>
+	<h1>Patricia Stepniak</h1>
+
+	<img src="https://avatars3.githubusercontent.com/u/31254244?s=460&v=4" height="200" width="200" alt="My photo" />
+
+	<br />
+
+	<div>
+
+	I am 27 years old, born and raised in Jersey City.  I am Polish and speak the language fluently.  I've visited Poland many times, and have also traveled to Italy, Croatia, Hungary, Czech Republic, and China.  I earned my bachelor's degree in linguistics and am finishing my master's in urban education and teaching ESL.
+
+	</div>
+
+	<br />
+
+	<h2>Contact Info</h2>
+	<ul>
+		<li><strong>Email:</strong> patriciastepniak@gmail.com</li>
+		<li><strong>GitHub:</strong> 
+			<a href="https://github.com/patstep">PatStep</a></li>
+		<li><strong>Instagram:</strong> <a href="http://instagram.com/instantclubhit">instantclubhit</a></li>
+	</ul>
+
+</body>
+
+</html>
